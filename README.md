@@ -1,3 +1,3 @@
 # TDI_plots
 
-This is the work page for The Data Incubator project. The goal of the project is to understand the correlation between the time series of the number of employees at a company and the company's stock price. 
+A study on the relationship between company employment history (using LinkedIn data) and the company stock price.
